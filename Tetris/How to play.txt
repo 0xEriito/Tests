@@ -11,3 +11,5 @@
                                 Restart With r
 
                                  Quit With q
+
+                          made by 0xEriito @github
