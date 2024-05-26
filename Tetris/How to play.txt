@@ -1,0 +1,13 @@
+                            *****How To Play*****
+
+                        Move With Left And Righ Arrows
+
+                             Rotate With Up Arrow
+
+                                 Pause With p
+
+                                Resume With p
+
+                                Restart With r
+
+                                 Quit With q
