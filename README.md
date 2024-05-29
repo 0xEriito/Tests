@@ -52,7 +52,7 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    |      Have a Good Day       |     @@
+@@   / /     \ \    |  俺は死の花だ aka 0xERIITO   |     @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
