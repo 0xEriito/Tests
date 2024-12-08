@@ -9,9 +9,6 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 <p align="center">
 <img src="https://gifer.com/embed/Erie" width=480 height=269.760
 
-<!--📏LINE-->
-<img src="https://i.gifer.com/Erie.gif" height="100%" width="100%">
-
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
