@@ -6,7 +6,7 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 
 
 <!--🖼️RICK-->
-<img src="https://gifer.com/embed/Erie" width=480 height=269.760
+<img src="https://gifer.com/embed/Erie" width=100% height=100%>
 
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
