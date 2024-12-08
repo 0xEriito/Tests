@@ -23,7 +23,7 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 
 <!--📰RSS-->
 <p align="center">
-<img src="https://i.pinimg.com/originals/5f/3e/49/5f3e497f75c3bda42ce38e25ce250dec.gif">
+<img src="https://i.pinimg.com/originals/5f/3e/49/5f3e497f75c3bda42ce38e25ce250dec.gif" width="200" height="150">
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
