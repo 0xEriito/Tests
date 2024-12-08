@@ -69,7 +69,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--ENDS_HERE_QUOTE_README-->
 <p align="center">
-<img src="https://sabeal.wordpress.com/wp-content/uploads/2020/03/d8b3d8a8d8add8a7d986-d8a7d984d984d987-d988d8a8d8add985d8afd987-d8b3d8a8d8add8a7d986-d8a7d984d984d987-d8a7d984d8b9d8b8d98ad985.png" height="240" width="440">
+<img src="https://sabeal.wordpress.com/wp-content/uploads/2020/03/d8b3d8a8d8add8a7d986-d8a7d984d984d987-d988d8a8d8add985d8afd987-d8b3d8a8d8add8a7d986-d8a7d984d984d987-d8a7d984d8b9d8b8d98ad985.png" height="350" width="550">
 
 <p align="center">
 <img src="https://static.vecteezy.com/system/resources/thumbnails/040/154/249/large/qatar-and-sudan-flags-together-seamless-looping-background-looped-cloth-waving-slow-motion-3d-rendering-free-video.jpg" height="165" width="550">
