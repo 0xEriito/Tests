@@ -7,7 +7,7 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 
 <!--🖼️RICK-->
 <p align="center">
-<iframe src="https://gifer.com/embed/Erie" width=480 height=269.760
+<img src="https://gifer.com/embed/Erie" width=480 height=269.760
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
