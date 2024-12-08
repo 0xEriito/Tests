@@ -12,13 +12,13 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
+<!--🖼️SVG BANNER -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
 
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
+<!--🔳TERMINAL -->
 <p align="center">
-<img src="https://github.com/0xEriito/Images/blob/main/MyTerminal.png" width="400" height="400">
+<img src="https://github.com/0xEriito/Images/blob/main/MyTerminal.png" width="400" height="500">
 
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
