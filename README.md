@@ -1,6 +1,6 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://tenor.com/view/welcome-gif-21819400" height="165" width="220">
+<img src="https://media1.tenor.com/m/r6E7Ki54jx8AAAAC/welcome.gif" height="165" width="220">
 
 This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 
