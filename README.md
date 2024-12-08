@@ -23,7 +23,7 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 
 <!--📰RSS-->
 <p align="center">
-<img src="https://png.pngtree.com/png-clipart/20221122/ourmid/pngtree-la-illaha-illallah-kufic-calligraphy-hd-png-image_6476064.png" width="550" height="150">
+<img src="https://png.pngtree.com/png-clipart/20221122/ourmid/pngtree-la-illaha-illallah-kufic-calligraphy-hd-png-image_6476064.png" width="550" height="250">
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
