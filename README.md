@@ -18,7 +18,7 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 
 <!--🔳TERMINAL -->
 <p align="center">
-<img src="https://github.com/0xEriito/Images/blob/main/MyTerminal.png" width="400" height="500">
+<img src="https://github.com/0xEriito/Images/blob/main/MyTerminal.png" width="550" height="400">
 
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
