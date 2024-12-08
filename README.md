@@ -1,11 +1,11 @@
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<!--💬GREETINGSTITLE -->
 <p align="center">
 <img src="https://media1.tenor.com/m/r6E7Ki54jx8AAAAC/welcome.gif" height="165" width="220">
 
 This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 
 
-<!--🖼️RICK-->
+<!--Gif1-->
 <p align="center">
 <img src="https://i.gifer.com/Erie.gif" height="281" width="500">
 
@@ -18,7 +18,7 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
+<img src="https://github.com/0xEriito/Images/blob/main/MyTerminal.png" width="400" height="400">
 
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
