@@ -21,7 +21,7 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 <img src="https://github.com/0xEriito/Images/blob/main/MyTerminal.png" width="550" height="400">
 
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--📰RSS-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
@@ -68,3 +68,5 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--ENDS_HERE_QUOTE_README-->
+<p align="center">
+<img src="https://2img.net/h/www9.0zz0.com/2011/06/21/11/792632456.gif" height="240" width="440">
