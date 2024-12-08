@@ -6,7 +6,6 @@ This Repo Has Some Random mini Projects, Enjoy Your mini Trip In My Repo! :^)
 
 
 <!--🖼️RICK-->
-<p align="center">
 <img src="https://gifer.com/embed/Erie" width=480 height=269.760
 
 
